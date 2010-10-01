@@ -1,0 +1,11 @@
+li.folder { list-style-image: url(../img/file_icons/folder.png) }
+li.audio { list-style-image: url(../img/file_icons/icon_audio.gif) }
+li.doc { list-style-image: url(../img/file_icons/icon_doc.gif) }
+li.generic { list-style-image: url(../img/file_icons/icon_generic.gif) }
+li.image { list-style-image: url(../img/file_icons/icon_image.gif) }
+li.markup { list-style-image: url(../img/file_icons/icon_markup.gif) }
+li.pdf { list-style-image: url(../img/file_icons/icon_pdf.gif) }
+li.ppt { list-style-image: url(../img/file_icons/icon_ppt.gif) }
+li.txt { list-style-image: url(../img/file_icons/icon_txt.gif) }
+li.xls { list-style-image: url(../img/file_icons/icon_xls.gif) }
+li.zip { list-style-image: url(../img/file_icons/icon_zip.gif) }
